@@ -4,5 +4,7 @@
 
 Проект новостного сайта.
 
-<img width="1440" alt="Screenshot 2023-09-16 at 5 45 08 PM" src="https://github.com/andreystashev/">
+![news-website](https://github.com/andreystashev/web-design/assets/70208784/0a71f062-5386-4759-b850-9f1baa75e543)
+
+
 
