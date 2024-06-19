@@ -4,4 +4,4 @@
 
 Проект сайт-список дел.
 
-<img width="1440" alt="Screenshot 2023-09-16 at 5 45 08 PM" src="https://github.com/andreystashev/">
+![todo-list](https://github.com/andreystashev/web-design/assets/70208784/95045d37-384e-4f37-9764-dd6fbe089ddf)
