@@ -4,4 +4,4 @@
 
 Проект личного сайта для демонстрации.
 
-<img width="1440" alt="Screenshot 2023-09-16 at 5 45 08 PM" src="https://github.com/andreystashev/">
+![personal-website](https://github.com/andreystashev/web-design/assets/70208784/11c126d7-8ff7-41e8-81e6-3bad852affce)
